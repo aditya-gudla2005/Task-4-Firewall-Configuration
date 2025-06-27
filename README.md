@@ -3,7 +3,7 @@
 ## Objective:
 To configure a basic firewall using UFW (Uncomplicated Firewall) on Kali Linux. The goal was to demonstrate control over inbound traffic using simple firewall rules.
 
-## 🛠 Tools Used:
+## Tools Used:
 - UFW (Firewall interface for iptables)
 - Kali Linux (Virtual Machine)
 
