@@ -17,8 +17,7 @@ To configure a basic firewall using UFW (Uncomplicated Firewall) on Kali Linux. 
 6. Deleted the Telnet deny rule to demonstrate rule removal
 
 ## Screenshots:
-- `firewall_block.png`: Shows UFW rule denying Telnet (port 23)
-- `firewall_allow.png`: Shows rule allowing SSH (port 22)
+- `firewall_block_and_allow.png`: Shows UFW rule denying Telnet (port 23) and Shows rule allowing SSH (port 22)
 - `firewall_remove.png`: Shows deletion of port 23 deny rule
 
 ## Outcome:
